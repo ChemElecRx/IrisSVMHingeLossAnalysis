@@ -6,7 +6,7 @@ This project performs Support Vector Machine (SVM) analysis on the Iris dataset 
 
 - `IrisSVMHingeLossVisualizer.py`: Python script containing the SVM analysis code.
 - `figure_1.png`: Image file showing the SVM decision boundary visualization.
-- `sample.py`: This script provides a small dataset consisting of 30 data pairs labeled as 0 and 1. The goal is to use this data to train a machine learning model to predict the labels of new data based on its features.
+- `sample.py`: This script provides a small dataset consisting of 30 data pairs labeled as 0 and 1. The goal is to use this data to train a machine learning model to predict the label of new data based on its features.
 
 ## Overview
 
