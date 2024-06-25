@@ -16,7 +16,7 @@ y = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
 model = SVC(kernel='linear')
 model.fit(X, y)
 
-# New data point to predict the class label for
+# New data point to predict the class label for 0 or 1
 new_data = [[163, 47]]
 
 # Predict the class label for the new data point
